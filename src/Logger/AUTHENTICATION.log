@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-13T17:34:17.427758Z</date>
+  <millis>1634146457427</millis>
+  <nanos>758000</nanos>
+  <sequence>0</sequence>
+  <logger>Authentication Server</logger>
+  <level>INFO</level>
+  <class>Authenticate.AuthenOperations</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Authentication Server created</message>
+</record>
+</log>

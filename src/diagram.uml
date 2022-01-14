@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="-26.332061068702302" y="-141.01145038167942">UserLogger</node>
+    <node x="41.0" y="-35.0">Server</node>
+    <node x="1036.5" y="-35.0">Authenticate</node>
+    <node x="803.5" y="-35.0">Exceptions</node>
+    <node x="1279.0" y="-35.0">Logger</node>
+    <node x="628.0" y="-35.0">Files</node>
+    <node x="443.5" y="-35.0">Client</node>
+    <node x="231.5" y="-35.0">Business</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Compact" zoom="0.7380281690140845" showDependencies="false" x="731.0" y="-20.0" />
+  <SelectedNodes>
+    <node>Server</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

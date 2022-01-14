@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-13T17:34:05.142306Z</date>
+  <millis>1634146445142</millis>
+  <nanos>306000</nanos>
+  <sequence>1</sequence>
+  <logger>KIRKLAND</logger>
+  <level>INFO</level>
+  <class>Server.DRRSServer</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>KIRKLAND Server created</message>
+</record>
+</log>
